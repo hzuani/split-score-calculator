@@ -1,0 +1,20 @@
+학기말 분할점수 계산기
+Copyright (c) 2026 hzuani
+The calculator's original application code is distributed under the MIT License.
+See LICENSE. This does not relicense the third-party components below.
+
+SheetJS Community Edition -- https://sheetjs.com/
+Copyright (C) 2012-present SheetJS LLC
+Version: 0.20.3
+Licensed under the Apache License, Version 2.0.
+See LICENSES/Apache-2.0.txt.
+
+SheetJS codepage data (embedded cptable version 1.15.0)
+Copyright (C) 2013-present SheetJS LLC
+https://github.com/SheetJS/js-codepage
+Licensed under the Apache License, Version 2.0.
+See LICENSES/Apache-2.0.txt.
+
+The existing embedded SheetJS/codepage copy has been preserved without changes
+to its library logic. The application is maintained separately in src/app.js.
+Attribution and full license texts are also included in the standalone HTML.

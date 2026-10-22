@@ -1,0 +1,12 @@
+{
+  "name": "split-score-calculator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "교사용 학기말 분할점수·성취도 분포 계산기",
+  "license": "MIT",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node build.mjs --check && node tests/calculator.test.cjs"
+  }
+}
